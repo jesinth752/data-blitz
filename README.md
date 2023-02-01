@@ -33,7 +33,7 @@
  
  # Handling Missing values 
  
- In this case,I got 270 Null values in total bedrooms field , you can use any of these following methods to slove or Handle missing 
+ In this case,I got 270 Null values in total bedrooms field , you can use any of these following methods to solve or Handle missing 
  values
  
   isnull()
